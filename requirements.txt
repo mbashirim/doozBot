@@ -1,0 +1,6 @@
+telethon
+requests
+python-dateutil
+asyncio
+datetime
+logging

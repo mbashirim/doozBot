@@ -1,0 +1,19 @@
+{
+    "auth_bot": {
+        "api_id": "5929388",
+        "api_hash": "e03ed558e7dc04584024709308d111ee",
+        "token": "7813757593:AAGBB7RLGbxy-Y0zRcKcTB-JLIUkHjqepR0"
+    },
+    "bank_wallet": {
+        "address": "TNGA6teaGvoTntTiW9kpCKSHWqPxqbbyzM",
+        "private_key": "1d30f36ad180e2412ced1fd49345cf765dbd461d38d6f3f2991b04ff08551f7c"
+    },
+    "destenation_wallet": {
+        "address": "TG8iAw3U7GUYyPMDuELCJAAiMuWnqopBqK"
+    },
+    "log_channel_id": "eg423tg43gf3g43g34",
+    "owner_username": "Emirtbz",
+    "bot_username": "DosePlaybot",
+    "ticket_admin_id": 6008477539,
+    "admin_ids": [6008477539]
+}
