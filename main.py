@@ -110,7 +110,7 @@ async def check_channel_membership(event):
     """Check if user is member of required channel"""
     try:
         user_id = event.sender_id
-        channel_username = "fourinrow"
+        channel_username = "jhjhjuhuhkh"
         
         try:
             participant = await client.get_participants(channel_username, filter=None)
